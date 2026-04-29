@@ -1,10 +1,7 @@
 # Hi, I'm a Software Engineer 
 (UT Dallas, Dec 2025)
-
 Tech Fellow @ CodePath
-
 I build reliable, data-driven systems using C#, Python, SQL, and JavaScript.
-
 I’ve worked on backend APIs, ETL pipelines, and production data validation systems.
 
 ---
