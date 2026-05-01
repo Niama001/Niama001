@@ -7,7 +7,7 @@ I’ve worked on backend APIs, ETL pipelines, and production data validation sys
 ---
 
 ### Interests
-Backend systems • Data pipelines • APIs • Software reliability
+Software Development • Software Engineer • Backend systems • Data pipelines • APIs • Software reliability
 
 ---
 
